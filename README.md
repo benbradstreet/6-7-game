@@ -1,12 +1,11 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# 6 7 Vibe Check
 
-This contains everything you need to run your app locally.
+This contains everything you need to run the game app locally.
 
-View your app in AI Studio: https://ai.studio/apps/0af6cc9e-920b-4939-8711-25d8336e0509
+View the game app in AI Studio: https://ai.studio/apps/0af6cc9e-920b-4939-8711-25d8336e0509
 
 ## Run Locally
 
